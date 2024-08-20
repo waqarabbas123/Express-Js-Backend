@@ -1,0 +1,16 @@
+{
+  "name": "fs-and-path-modulus",
+  "version": "1.0.0",
+  "description": "this is my second backend file ",
+  "main": "main.js",
+  "type" :"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "second",
+    "file"
+  ],
+  "author": "waqar",
+  "license": "ISC"
+}
